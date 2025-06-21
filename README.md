@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏡 StayBook – Travel Stay Booking Platform
 
 **StayBook** is a full-stack travel accommodation web application inspired by Airbnb.  
@@ -115,3 +116,6 @@ StayBook/
 ---
 
 > Made with ❤️ for Web Development and learning.
+=======
+# Staybook
+>>>>>>> f00112fef48decb63d08d85d612a34c091c16df5
