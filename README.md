@@ -113,5 +113,12 @@ StayBook/
 🔗 GitHub: [sarik2056](https://github.com/sarik2056)
 
 ---
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+Copyright © 2025 sarik2056.
+
+---
 
 > Made with ❤️ for Web Development and learning.
