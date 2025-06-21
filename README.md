@@ -110,9 +110,8 @@ StayBook/
 
 **Sarik Khan**
 📧 Email: [sarik2056@gmail.com](mailto:Sarik2056@gmail.com)
-🔗 GitHub: [sarikkhan](https://github.com/sarik2056)
+🔗 GitHub: [sarik2056](https://github.com/sarik2056)
 
 ---
 
 > Made with ❤️ for Web Development and learning.
-=======
